@@ -1,6 +1,3 @@
-# linux-for-devops
-Linux for DevOps – from basics to advanced with hands-on commands and scripts
-
 # Linux for DevOps – From Basics to Advanced
 
 This repository documents my learning of Linux from a DevOps perspective.
